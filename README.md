@@ -1,16 +1,13 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
+ HEAD
+ HEAD
+ HEAD
 # Айым (main)
-=======
 # Айым (feature)
->>>>>>> feature-title
-=======
+ feature-title
 Айым (main)
->>>>>>> 42e48d912b1799efaa5f5be8d297d1d11e47c99d
-=======
+42e48d912b1799efaa5f5be8d297d1d11e47c99d
 Сәлем бұл менің пікірім!
->>>>>>> 5c2b2eaf2c91abbfd7617551304a2465326f78be
+ 5c2b2eaf2c91abbfd7617551304a2465326f78be
 Менің атым Айым, мен Ауэсте оқимын.
 Маған IT мамандығы қызықты.
 Мен git пен GitHub-ты үйреніп жатырмын.
